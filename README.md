@@ -15,7 +15,7 @@ The goal is to analyze sales performance, revenue, and customer preferences thro
 
 
 
- 📂 Files Included
+📂 Files Included
 - **pizza_sales.pdf** → Project report with SQL queries, visualizations, and insights  
 
 
@@ -26,7 +26,7 @@ The goal is to analyze sales performance, revenue, and customer preferences thro
 
 
 
- 📊 Key Insights
+📊 Key Insights
 - Helps businesses understand customer preferences  
 - Provides revenue and order trends  
 - Supports decision-making for menu optimization  
@@ -34,6 +34,9 @@ The goal is to analyze sales performance, revenue, and customer preferences thro
 
 
  👤 Author
-Karumbaiah C B 
-mohithkarumbaiah7@gmail.com
+**Karumbaiah C B**  
+📧 mohithkarumbaiah7@gmail.com
 
+
+## 🔗 Project Link  
+[GitHub Repository](https://github.com/Karumbaiah-CB/pizza_sales-analysis)
